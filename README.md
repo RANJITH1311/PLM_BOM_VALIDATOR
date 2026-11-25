@@ -3,7 +3,7 @@
 An automated Python, SQLite, and Power BI data governance tool that audits multi-level engineering Bills of Materials (BOMs) for lifecycle maturity mismatches, missing CAD/material metadata, orphaned parts, and circular references prior to manufacturing release.
 
 ## Dashboard Preview
-![PLM Data Quality Dashboard](powerbi/dashboard_overview.png)
+![PLM Data Quality Dashboard](POWER%20BI/dashboard_overview.png)
 
 ## Key Features
 * **Automated Rule Engine (`02_bom_validator.py`):** Validates 8 core PLM release-gate rules across multi-level assemblies.
