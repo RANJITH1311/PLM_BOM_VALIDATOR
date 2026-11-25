@@ -1,0 +1,14 @@
+parent_id,part_number,rev,description,lifecycle_state,material,weight_kg,unit_cost_eur,qty,cad_file_linked,supplier_code
+ROOT,ASM-1000,B,PEM Electrolyzer Stack 1MW,Released,Assembly,0.0,0.0,1,True,INTERNAL
+ASM-1000,SUB-2100,C,Cell Stack Core Module,Released,Assembly,0.0,0.0,1,True,INTERNAL
+ASM-1000,SUB-2200,A,End Plate & Compression Frame,Released,Assembly,0.0,0.0,2,True,INTERNAL
+ASM-1000,SUB-2300,B,Coolant Manifold Assembly,In Work,Assembly,0.0,0.0,1,False,INTERNAL
+SUB-2100,PRT-3001,B,Bipolar Plate Titanium,Released,Ti-6Al-4V,1.45,85.0,120,True,SUP-881
+SUB-2100,PRT-3002,A,Membrane Electrode Assembly (MEA),Released,PFSA-Pt/Ir,0.12,210.0,120,True,SUP-904
+SUB-2100,PRT-3003,A,EPDM Perimeter Gasket,Released,,0.04,3.5,240,False,SUP-412
+SUB-2200,PRT-3010,A,Structural Compression Plate,Released,EN 1.4404 (316L),48.5,420.0,1,True,SUP-119
+SUB-2200,PRT-3011,D,M16 Tie Rod Bolt,Obsolete,A4-80 Stainless,0.85,12.0,16,True,SUP-205
+SUB-2200,PRT-3011,D,M16 Tie Rod Bolt,Obsolete,A4-80 Stainless,0.85,12.0,16,True,SUP-205
+SUB-2300,PRT-3020,B,Deionized Water Inlet Valve,Released,PTFE / 316L,2.1,145.0,2,True,
+SUB-2300,PRT-3021,A,Temperature Sensor PT100,Released,316L,0.0,38.0,4,True,SUP-330
+SUB-9999,PRT-3099,A,Unassigned Lifting Bracket,Released,S235JR,3.2,25.0,2,True,SUP-119
